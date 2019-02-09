@@ -1,0 +1,63 @@
+.profile{
+    height:500px;
+}
+
+.inputstyle{
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    padding:2px;
+}
+
+.inputstyle-btn{
+    border:none;
+    padding:2px;
+    background-color: black;
+    color:White;
+    height:35px;
+    width:80%;
+    border-radius:18px ;
+}
+
+.inputstyle-btn-grey{
+    border:none;
+    padding:2px;
+    background-color:#9b9e9a;
+    color:White;
+    height:35px;
+    width:80%;
+    border-radius:18px ;
+}
+
+#d1{
+    
+    height:30px;
+    width:100%;
+    color:#7c7c7c;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    border-bottom-color:#d6d6d8;
+}
+
+
+
+#d2{
+    
+    height:30px;
+    width:100%;
+    color:#7c7c7c;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    border-radius:18px;
+}
+
+#d3{
+    
+    height:35px;
+    width:100%;
+    border:none;
+    background-color:#d6d6d8;
+    border-radius:18px;
+}
